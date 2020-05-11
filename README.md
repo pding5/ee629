@@ -1,4 +1,4 @@
-# MOTION TRIGGERED DPHOTOGRAPH
+# MOTION TRIGGERED PHOTOGRAPH
 ## 1 Introduction of project background
 This is a security system that helps you find thieves who stole from you. It uses multisensor fusion technology, which uses motion and light sensors to capture the environment, and an executive-camera to capture the environment. The background of this project is that monitor assets with low power consumption and low memory. Normally, monitoring with a camera consumes a lot of memory and works continuously that cost energy.
 To solve this problems, we start this project.We use motion detect sensor to sense the person passing through the door. If a person entering the door, the light sensor will decide whether there is sufficient light for a photograph and turn on or turn off the flashlight.Then the camera will capture five consecutive photos of the object and save all the photos on the folder chronologically. 
