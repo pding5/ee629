@@ -25,13 +25,14 @@ The real circuit diagram is shown in below.
 
 1. Declare
 
-![image](https://user-images.githubusercontent.com/54963953/81526300-ce598f80-9389-11ea-8e6a-da763228684e.png)
+
 2. Take photos (main)
 
 ![image](https://user-images.githubusercontent.com/54963953/81526317-da455180-9389-11ea-8f41-7d44a5e8eb09.png)
 3. Stop the system
 
 ![image](https://user-images.githubusercontent.com/54963953/81526259-b8e46580-9389-11ea-907c-bedb6997177f.png)
+
 ## 5 Test
 
 This system is tested by both in bright and dark enviroment and shows that it works well.
