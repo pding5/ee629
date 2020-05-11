@@ -25,6 +25,8 @@ The real circuit diagram is shown in below.
 
 1. Declare
 
+![image](https://user-images.githubusercontent.com/54963953/81528078-740efd80-938e-11ea-9aec-6675542ad928.png)
+
 
 2. Take photos (main)
 
