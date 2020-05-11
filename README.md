@@ -31,6 +31,7 @@ The real circuit diagram is shown in below.
 2. Take photos (main)
 
 ![image](https://user-images.githubusercontent.com/54963953/81526317-da455180-9389-11ea-8f41-7d44a5e8eb09.png)
+
 3. Stop the system
 
 ![image](https://user-images.githubusercontent.com/54963953/81526259-b8e46580-9389-11ea-907c-bedb6997177f.png)
